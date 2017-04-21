@@ -23,6 +23,7 @@ plugins/StdUtils/Plugins/Release_Unicode/StdUtils.dll svn_mime_002dtype=applicat
 plugins/UserMgr/UserMgr.dll svn_mime_002dtype=application%2Foctet-stream
 plugins/UserMgr/libs/nsis/lib/pluginapi-x86-ansi.lib svn_mime_002dtype=application%2Foctet-stream
 plugins/UserMgr/libs/nsis/lib/pluginapi-x86-unicode.lib svn_mime_002dtype=application%2Foctet-stream
+plugins/UserMgr/tests/_testlib/ButtonEvent.dll svn_mime_002dtype=application%2Foctet-stream
 plugins/nsisFile/libs/nsis/lib/pluginapi-x86-ansi.lib svn_mime_002dtype=application%2Foctet-stream
 plugins/nsisFile/libs/nsis/lib/pluginapi-x86-unicode.lib svn_mime_002dtype=application%2Foctet-stream
 plugins/nsisFile/nsisFile.dll svn_mime_002dtype=application%2Foctet-stream
