@@ -27,6 +27,14 @@
 3dparty/nsis/3.x/Contrib/Graphics/Checks/simple.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Header/nsis-r.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Header/nsis.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Header/nsis3-branding-r.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Header/nsis3-branding.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Header/nsis3-grey-right.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Header/nsis3-grey.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Header/nsis3-metro-right.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Header/nsis3-metro.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Header/nsis3-vintage-right.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Header/nsis3-vintage.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Header/orange-nsis.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Header/orange-r-nsis.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Header/orange-r.bmp svn_mime_002dtype=application%2Foctet-stream
@@ -36,8 +44,6 @@
 3dparty/nsis/3.x/Contrib/Graphics/Header/orange-uninstall.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Header/orange.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Header/win.bmp svn_mime_002dtype=application%2Foctet-stream
-3dparty/nsis/3.x/Contrib/Graphics/Icons/XPUI-install.ico svn_mime_002dtype=application%2Foctet-stream
-3dparty/nsis/3.x/Contrib/Graphics/Icons/XPUI-uninstall.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/arrow-install.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/arrow-uninstall.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/arrow2-install.ico svn_mime_002dtype=application%2Foctet-stream
@@ -60,6 +66,9 @@
 3dparty/nsis/3.x/Contrib/Graphics/Icons/modern-uninstall.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/nsis1-install.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/nsis1-uninstall.ico svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Icons/nsis3-install-alt.ico svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Icons/nsis3-install.ico svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Icons/nsis3-uninstall.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/orange-install-nsis.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/orange-install.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/orange-uninstall-nsis.ico svn_mime_002dtype=application%2Foctet-stream
@@ -71,6 +80,10 @@
 3dparty/nsis/3.x/Contrib/Graphics/Wizard/arrow.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Wizard/llama.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Wizard/nsis.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Wizard/nsis3-branding.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Wizard/nsis3-grey.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Wizard/nsis3-metro.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Wizard/nsis3-vintage.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Wizard/nullsoft.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Wizard/orange-nsis.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Wizard/orange-uninstall-nsis.bmp svn_mime_002dtype=application%2Foctet-stream
