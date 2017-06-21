@@ -44,6 +44,8 @@
 3dparty/nsis/3.x/Contrib/Graphics/Header/orange-uninstall.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Header/orange.bmp svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Header/win.bmp svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Icons/XPUI-install.ico svn_mime_002dtype=application%2Foctet-stream
+3dparty/nsis/3.x/Contrib/Graphics/Icons/XPUI-uninstall.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/arrow-install.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/arrow-uninstall.ico svn_mime_002dtype=application%2Foctet-stream
 3dparty/nsis/3.x/Contrib/Graphics/Icons/arrow2-install.ico svn_mime_002dtype=application%2Foctet-stream
